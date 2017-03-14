@@ -1,0 +1,1 @@
+-classpath "${project_classpath};${env_var:ANDROID_SDK_HOME}/platforms/android-21/android.jar"${java_type_name}
